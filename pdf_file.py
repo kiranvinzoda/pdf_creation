@@ -1,5 +1,6 @@
 from fpdf import FPDF
 
+
 travel_code = "128"
 travel_description="Annual Meetup at Bhuj"
 trip_type="Domestic"
